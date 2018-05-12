@@ -1,0 +1,46 @@
+body {
+	background-color: #f9f4ed;
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+h1 {
+	font-size: 34px;
+	text-align: center;
+	color: #8e0b8e;
+	font-family: Snell Roundhand, cursive;
+}
+p {
+	font-size: 20px;
+	color: #7f705a;
+}
+
+#firstP {
+	font-family: Bradley Hand, cursive;
+}
+
+#secondP {
+	font-family: URW Chancery L, cursive;
+}
+
+#thirdP {
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.haiku pre {
+	display: inline-block;
+	font-size: 20px;
+	font-family: Snell Roundhand, cursive;
+
+}
+
+#topImage img {
+	width: 40%;
+	height: 40%;
+	float: left;
+	margin-right: 50px;
+}
+
+
+
